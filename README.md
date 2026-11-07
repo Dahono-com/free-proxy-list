@@ -3,7 +3,7 @@
 Free, auto-updated list of **live-tested** HTTP, HTTPS, SOCKS4 and SOCKS5 proxies, sorted by latency. Updated every 3 hours by GitHub Actions from the [Dahono free proxy feed](https://router.dahono.com/proxy/free).
 
 <!-- stats:start -->
-_Last update: **2026-11-07 12:09 UTC** · **7,204** live proxies · **112** countries_
+_Last update: **2026-11-07 12:14 UTC** · **7,204** live proxies · **112** countries_
 
 | Protocol | Proxies | Raw list |
 | --- | ---: | --- |
