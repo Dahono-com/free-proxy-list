@@ -1,0 +1,27 @@
+name: Update proxy lists
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/update.py
+      - name: Commit changes
+        run: |
+          git config user.name "dahono-bot"
+          git config user.email "noreply@dahono.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update proxy lists $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
