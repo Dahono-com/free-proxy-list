@@ -3,17 +3,17 @@
 Free, auto-updated list of **live-tested** HTTP, HTTPS, SOCKS4 and SOCKS5 proxies, sorted by latency. Updated every 3 hours by GitHub Actions from the [Dahono free proxy feed](https://router.dahono.com/proxy/free).
 
 <!-- stats:start -->
-_Last update: **2026-11-22 11:24 UTC** · **5,874** live proxies · **120** countries_
+_Last update: **2026-11-22 19:39 UTC** · **5,781** live proxies · **120** countries_
 
 | Protocol | Proxies | Raw list |
 | --- | ---: | --- |
-| HTTP | 3,411 | [`proxies/http.txt`](proxies/http.txt) |
-| HTTPS | 3,046 | [`proxies/https.txt`](proxies/https.txt) |
-| SOCKS4 | 730 | [`proxies/socks4.txt`](proxies/socks4.txt) |
-| SOCKS5 | 507 | [`proxies/socks5.txt`](proxies/socks5.txt) |
-| All | 5,874 | [`proxies/all.txt`](proxies/all.txt) |
+| HTTP | 3,133 | [`proxies/http.txt`](proxies/http.txt) |
+| HTTPS | 2,887 | [`proxies/https.txt`](proxies/https.txt) |
+| SOCKS4 | 691 | [`proxies/socks4.txt`](proxies/socks4.txt) |
+| SOCKS5 | 602 | [`proxies/socks5.txt`](proxies/socks5.txt) |
+| All | 5,781 | [`proxies/all.txt`](proxies/all.txt) |
 
-Top countries: [ID](countries/ID.txt) 1,627 · [US](countries/US.txt) 569 · [TR](countries/TR.txt) 254 · [PH](countries/PH.txt) 249 · [CO](countries/CO.txt) 229 · [BR](countries/BR.txt) 207 · [IN](countries/IN.txt) 201 · [MX](countries/MX.txt) 171 · [TH](countries/TH.txt) 165 · [BD](countries/BD.txt) 150
+Top countries: [ID](countries/ID.txt) 1,471 · [US](countries/US.txt) 672 · [TR](countries/TR.txt) 257 · [PH](countries/PH.txt) 215 · [CO](countries/CO.txt) 204 · [IN](countries/IN.txt) 194 · [CN](countries/CN.txt) 190 · [BR](countries/BR.txt) 185 · [TH](countries/TH.txt) 173 · [MX](countries/MX.txt) 145
 <!-- stats:end -->
 
 ## Raw lists
